@@ -8,6 +8,5 @@
   "installs": [
     { "type": "backend", "path": "src/backend/backend" },
     { "type": "admin", "path": "src/admin/admin" },
-    { "type": "store", "path": "src/store/store" }
   ]
 }
